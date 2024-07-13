@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612553855012",
+    "project_id": "talk-talk-chat-a1f13",
+    "storage_bucket": "talk-talk-chat-a1f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612553855012:android:b82d5cd3de4acb459688b1",
+        "android_client_info": {
+          "package_name": "com.example.talk_talk_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK9RkfrHIad4ocAl8Vf-DwhJR_ic5wcfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
